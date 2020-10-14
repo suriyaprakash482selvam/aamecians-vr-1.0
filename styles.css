@@ -1,0 +1,29 @@
+body{
+	background-color: grey;
+	text-align: center;
+}
+.navbar-brand{
+	font-family: 'Metal Mania';
+	font-size: 25px;
+	
+}
+.aamech1{
+	padding: 3px;
+	color: pink;
+	font-family: 'Metal Mania';
+}
+.p1{
+	font-family: 'Parisienne', cursive;
+	padding: 3px;
+}
+#footer{
+	font-size: 10px;
+	padding: 5px;
+	margin-bottom: 10px;
+	text-align: center;
+	background-color: black;
+}.in-tit{
+	color: pink;
+	font-family: 'Metal Mania';
+	font-size: 25px;
+}
